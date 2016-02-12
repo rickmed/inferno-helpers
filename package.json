@@ -1,0 +1,24 @@
+{
+  "name": "inferno-helpers",
+  "version": "0.1.0",
+  "description": "Sugar syntax for creating inferno virtual DOM elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickmed/inferno-helpers.git"
+  },
+  "keywords": [
+    "inferno",
+    "virtual",
+    "dom"
+  ],
+  "author": "Ricardo Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rickmed/inferno-helpers/issues"
+  },
+  "homepage": "https://github.com/rickmed/inferno-helpers#readme"
+}
